@@ -1,0 +1,6 @@
+out/*
+!out/.gitkeep
+02-userspace-debug/target
+*.o
+*.log
+*.aux
